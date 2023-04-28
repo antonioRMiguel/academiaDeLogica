@@ -1,1 +1,1 @@
-# academiaDeLogica
+# academia-de-logica
